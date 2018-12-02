@@ -1,4 +1,4 @@
-#Udacity Pixel Art Maker Project
+## Udacity Pixel Art Maker Project
 ### Front End Web Developer Nanodegree
 
 Live: https://vinodkumarrocky.github.io/Pixel-Art-Maker/
